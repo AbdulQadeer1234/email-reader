@@ -1,0 +1,8 @@
+streamlit 
+imaplib2  
+pandas
+openpyxl 
+gspread 
+oauth2client 
+streamlit-option-menu
+cryptography
